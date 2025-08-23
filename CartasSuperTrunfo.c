@@ -72,7 +72,7 @@ int main() {
     carta2.superPoder = carta2.populacao + carta2.area + carta2.pib + carta2.pontosTuristicos +
                         carta2.pibPerCapita + (1.0 / carta2.densidadePopulacional);
 
-    // Escolha do atributo
+
     printf("\nEscolha o atributo para comparar:\n");
     printf("1 - População\n");
     printf("2 - Área\n");
